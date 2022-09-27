@@ -1,0 +1,16 @@
+﻿# Visual Studio
+.vs/
+# Visual Studio C# Project
+obj/
+# Binaries
+bin/
+# Node Modules
+node_modules/
+# Mac
+.DS_Store
+# VSCode
+.vscode/
+# Jetbrains
+.idea/
+# User custom files
+**/*.user
